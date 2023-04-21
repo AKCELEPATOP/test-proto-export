@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+package test;
+
+option go_package="gitlab.citydrive.ru/a.zemlianskii/test-export/protoc/test-export/test";
+
+import "google/protobuf/timestamp.proto";
+
+message TestExport {
+  string id = 1;
+  google.protobuf.Timestamp created_at = 2;
+}
