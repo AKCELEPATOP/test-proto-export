@@ -1,4 +1,4 @@
-module test-proto-export
+module gitlab.citydrive.ru/a.zemlianskii/test-proto-export
 
 go 1.19
 
