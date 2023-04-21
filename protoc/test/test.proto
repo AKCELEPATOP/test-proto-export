@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package test;
 
-option go_package="gitlab.citydrive.ru/a.zemlianskii/test-export/protoc/test-export/test";
+option go_package="gitlab.citydrive.ru/a.zemlianskii/test/protoc/test/test";
 
 import "google/protobuf/timestamp.proto";
 

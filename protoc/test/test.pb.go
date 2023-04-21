@@ -2,7 +2,7 @@
 // versions:
 // 	protoc-gen-go v1.29.0
 // 	protoc        v3.21.12
-// source: protoc/test-export/test.proto
+// source: protoc/test/test.proto
 
 package test
 
