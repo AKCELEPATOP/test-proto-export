@@ -1,7 +1,6 @@
 version: v1
-name: github.com/AKCELEPATOP/test-proto-export
-deps:
-  - github.com/protocolbuffers/protobuf:main
+#name: gitlab.citydrive.ru/a.zemlianskii/test-proto-export
+
 breaking:
   use:
     - FILE
